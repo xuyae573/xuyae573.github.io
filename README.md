@@ -1,10 +1,10 @@
 # xuyae573.github.io
 
-<h2> Hi, I'm Arthur!  
+Hi, I'm Arthur!  
  
-<p><em>Staff Software Enginner at Visa
-</em></p>
+<p><em>Staff Software Enginner at Visa</em></p>
 
+ [![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyae573)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
